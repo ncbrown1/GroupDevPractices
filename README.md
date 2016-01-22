@@ -65,7 +65,7 @@ Okay, now we have the product backlog and our team to help complete it. Now how 
 Sometimes the team may take time away from the sprint and do a smaller, informal meeting called **_"story time"_**, where the team inspects the current state of the product backlog. At this time, we can put estimates on stories that do not have estimates yet (in terms of difficulty), refine acceptance criteria, or break big stories up into smaller stories. This is so that the top of the backlog is in good shape for the next sprint cycle.
 
 <!-- !sprint-cycle.jpg! -->
-![alt tag](https://raw.github.com/ncbrown/GroupDevPractices/master/sprint-cycle.jpg "Sprint Cycle Diagram")
+![alt tag](https://raw.githubusercontent.com/ncbrown1/GroupDevPractices/master/sprint-cycle.jpg "Sprint Cycle Diagram")
 
 If you want to read more on this, check out the following webpage: http://www.agilelearninglabs.com/resources/scrum-introduction/
 
@@ -114,7 +114,7 @@ You, as a developer, are responsible for doing work to move stories from the beg
 Similar to Scrum, there are meetings at the beginning of every work day or shift. However, that is mostly it. These meetings will be between certain members of the team and the product owner (typically your manager), and facilitate the full understanding of the current tasks at hand in the development phase. There may be occasional meetings between the product owner, stakeholders, and team members to update everyone on the overall progress of the product. At this time, proper adjustments are made in the form of tasks and user stories.
 
 <!-- !Kanban-board.png! -->
-![alt tag](https://raw.github.com/ncbrown/GroupDevPractices/master/Kanban-board.png "Kanban Board Example")
+![alt tag](https://raw.githubusercontent.com/ncbrown1/GroupDevPractices/master/Kanban-board.png "Kanban Board Example")
 
 ## Git/VCS
 
@@ -123,4 +123,4 @@ In most cases, each git commit will correspond directly to a story or a task def
 http://nvie.com/posts/a-successful-git-branching-model/  
 
 <!-- !git-model.png! -->
-![alt tag](https://raw.github.com/ncbrown/GroupDevPractices/master/git-model.png "Git Branch Model Diagram")
+![alt tag](https://raw.githubusercontent.com/ncbrown1/GroupDevPractices/master/git-model.png "Git Branch Model Diagram")
